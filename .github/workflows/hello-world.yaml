@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest    # <- GitHub-hosted Linux runner
     steps:
       - name: Print a greeting
-        run: echo"Hello, Lingges"
+        run: echo "Hello, Lingges"
         
 
       - name: Print multiple lines
